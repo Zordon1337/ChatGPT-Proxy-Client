@@ -85,7 +85,7 @@
             this.APIKEY.Name = "APIKEY";
             this.APIKEY.Size = new System.Drawing.Size(241, 20);
             this.APIKEY.TabIndex = 4;
-            this.APIKEY.Text = "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";
+            this.APIKEY.Text = "";
             // 
             // IP
             // 
